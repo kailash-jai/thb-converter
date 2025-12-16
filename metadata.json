@@ -1,0 +1,5 @@
+{
+  "name": "THB Converter",
+  "description": "A streamlined currency converter designed to instantly calculate INR and USD values from Thai Baht input.",
+  "requestFramePermissions": []
+}
